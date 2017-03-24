@@ -19,6 +19,6 @@ deCoder's Blog is a web app where multiple users can express their thoughts and 
 - Blog List
 - Archives
 
-Enjoy using this WebApps!
+Enjoy using these WebApps!
 
 
